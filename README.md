@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="200" height="200" src="./img/banner.tiff" alt="mybanner">
-</p>
 
 ### Connect with me:
 
