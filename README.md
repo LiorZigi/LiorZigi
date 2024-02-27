@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" height="200" src="./img/code.gif" alt="mybanner">
+</p>
 
 ### Connect with me:
 
@@ -20,5 +23,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
