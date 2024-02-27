@@ -1,7 +1,5 @@
 <p align=”center”>
-
-<img width=”200" height=”200" src="img/DALL·E Banner for Lior Zigi (1) copy.tiff" alt=”my banner”>
-
+  <img width=”200" height=”200" src="img/banner.tiff" alt=”my banner”>
 </p>
 
 ### Connect with me:
