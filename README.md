@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="650" height="400" src="./img/code.gif" alt="mybanner">
-</p>
 
 ### Connect with me:
 
